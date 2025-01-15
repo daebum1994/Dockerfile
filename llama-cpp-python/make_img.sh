@@ -1,0 +1,1 @@
+docker build --tag llama_cpp_python:1.0 .

@@ -1,0 +1,1 @@
+docker build --tag llm_cu118:1.0 .
